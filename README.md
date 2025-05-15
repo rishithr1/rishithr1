@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://rishithreddyvs.netlify.app/](https://rishithreddyvs.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://rishithreddyvs.vercel.app/)]
 
 - 📫 How to reach me **rishithreddyvs@gmail.com**
 
