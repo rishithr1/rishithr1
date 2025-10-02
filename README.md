@@ -3,8 +3,6 @@
 
 - 👯 I’m looking to collaborate on **Full stack development**
 
-- 👨‍💻 All of my projects are available at [(https://rishithreddyvs.vercel.app/)]
-
 - 📫 How to reach me **rishithreddyvs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
